@@ -1,4 +1,4 @@
-![Profile Acess](https://github.com/Emmlo0/github-profile-views-counter.git)
+![Profile views](https://gpvc.arturio.dev/Emmlo0))
 ## Bem-vindo(a) ao meu perfil! Sou um novo programador tentando entrar nesse mundo!
 
  <div>
