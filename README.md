@@ -1,9 +1,12 @@
 ## Bem-vindo(a) ao meu perfil! Sou um novo programador tentando entrar nesse mundo!
 
+
+
+
  <div>
    <a href="https://github.com/Emmlo0">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emmlo0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmlo0&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmlo0&layout=compact&langs_count=6&theme=dark"/>
 </div>
     
 <div style="display: inline_block"><br>
