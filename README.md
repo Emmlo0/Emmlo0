@@ -1,5 +1,5 @@
 
-## Bem-vindo(a) ao meu perfil! Sou um novo programador tentando entrar nesse mundo!
+## Bem-vindo(a) ao meu perfil! Sou um novo programador tentando entrar nesse mundo!:)
 
 ![Image](https://github.com/user-attachments/assets/b0b17066-e497-4242-8925-1724c3387bf1)
 
