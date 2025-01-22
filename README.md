@@ -1,7 +1,5 @@
+![Profile Acess](https://github.com/Emmlo0/github-profile-views-counter.git)
 ## Bem-vindo(a) ao meu perfil! Sou um novo programador tentando entrar nesse mundo!
-
-
-
 
  <div>
    <a href="https://github.com/Emmlo0">
