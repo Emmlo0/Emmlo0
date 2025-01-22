@@ -1,11 +1,7 @@
 
 ## Bem-vindo(a) ao meu perfil! Sou um novo programador tentando entrar nesse mundo!
-<a href="https://github.com/Emmlo0">
-<img src="pc.gif">
-</a>
 
-
-
+![Image](https://github.com/user-attachments/assets/b0b17066-e497-4242-8925-1724c3387bf1)
 
  <div>
    <a href="https://github.com/Emmlo0">
