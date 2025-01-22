@@ -1,5 +1,8 @@
-![Profile views](https://gpvc.arturio.dev/Emmlo0])
 ## Bem-vindo(a) ao meu perfil! Sou um novo programador tentando entrar nesse mundo!
+
+<a href="https://github.com/Emmlo0">
+<img src="pc.gif">
+</a>
 
  <div>
    <a href="https://github.com/Emmlo0">
