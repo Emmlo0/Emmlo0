@@ -25,10 +25,9 @@
 
 #### Meus certificados!
 <div>
- 
- ![Image](https://github.com/user-attachments/assets/8bfd396d-90b1-4e6f-a560-5a92e4796d4b)
- ![Image](https://github.com/user-attachments/assets/cfcc614d-379f-49c2-8619-6cdc294aa03c)
- ![Image](https://github.com/user-attachments/assets/77c0060a-1d09-465d-a006-b6bb4fb958d2)
- ![Image](https://github.com/user-attachments/assets/57a1dc6c-a5c4-456a-87e8-7511c533baf0)
+<img src="https://github.com/user-attachments/assets/8bfd396d-90b1-4e6f-a560-5a92e4796d4b" width="40px"/>
+<img src="https://github.com/user-attachments/assets/cfcc614d-379f-49c2-8619-6cdc294aa03c" width="40px"/>
+<img src="https://github.com/user-attachments/assets/77c0060a-1d09-465d-a006-b6bb4fb958d2" width="40px"/>
+<img src="https://github.com/user-attachments/assets/57a1dc6c-a5c4-456a-87e8-7511c533baf0" width="40px"/>
  
 </div>
